@@ -13,16 +13,16 @@ public class MusicLibraryApp {
         Scanner scanner = new Scanner(System.in);
         
         // Create ten Song objects and add them to the music library
-        Song one = new Song("Joe1", "Joe", 1);
-        Song two = new Song("Joe2", "Joe", 1);
-        Song three = new Song("Joe3", "Joe", 1);
-        Song four = new Song("Joe4", "Joe", 1);
-        Song five = new Song("Joe5", "Joe", 1);
-        Song six = new Song("Joe6", "Joe", 1);
-        Song seven = new Song("Joe7", "Joe", 1);
-        Song eight = new Song("Joe8", "Joe", 1);
-        Song nine = new Song("Joe9", "Joe", 1);
-        Song ten = new Song("Joe10", "Joe", 1);
+        Song one = new Song("Alone Again ", "The Weeknd", 164657602);
+        Song two = new Song("Just The Way You Are", "Bruno Mars", 1773603056);
+        Song three = new Song("Money Trees", "Kendrick Lamar", 1225496391);
+        Song four = new Song("Ghost", "Justin Bieber", 1296542137);
+        Song five = new Song("Mockingbird", "Eminem", 1382278752);
+        Song six = new Song("The Real Slim Shady", "Eminem", 1532459853);
+        Song seven = new Song("Blank Space", "Taylor Swift", 1589818931);
+        Song eight = new Song("Last Friday Night", "Katy Perry", 959433175);
+        Song nine = new Song("Kill Bill", "SZA", 1439153910);
+        Song ten = new Song("Woman", "Doja Cat", 1421862085);
         
         // Add these songs to the music library
         library.addSong(one);
