@@ -1,4 +1,4 @@
-package MusicLibraryApp;
+package SpotifyPlaylist;
 
 import java.util.List;
 import java.util.ArrayList;
